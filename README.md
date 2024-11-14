@@ -1,4 +1,4 @@
-# EXNO:4-DS
+# EXNO:4-Feature Scaling and Selection
 ## Name: Piritharaman R
 ## Reg no: 212223230148
 # AIM:
